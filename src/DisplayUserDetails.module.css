@@ -1,0 +1,23 @@
+.main_div{
+    max-width: 80%;
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding:10px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+
+.same{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.same + p{
+    text-align: center;
+}
+.span_mt{
+    margin-top: 15px;
+}

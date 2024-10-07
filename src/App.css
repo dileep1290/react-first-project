@@ -1,0 +1,12 @@
+.button-div{
+    /* border: 1px solid black; */
+    max-width: 30%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.button-div > button{
+    padding: 10px;
+    background-color: #fee4c3;
+    border: 1px solid black;
+}
